@@ -1,0 +1,14 @@
+F:\ROUTE\Exam 02\Exam02\bin\Debug\net6.0\Exam02.exe
+F:\ROUTE\Exam 02\Exam02\bin\Debug\net6.0\Exam02.deps.json
+F:\ROUTE\Exam 02\Exam02\bin\Debug\net6.0\Exam02.runtimeconfig.json
+F:\ROUTE\Exam 02\Exam02\bin\Debug\net6.0\Exam02.dll
+F:\ROUTE\Exam 02\Exam02\bin\Debug\net6.0\Exam02.pdb
+F:\ROUTE\Exam 02\Exam02\obj\Debug\net6.0\Exam02.GeneratedMSBuildEditorConfig.editorconfig
+F:\ROUTE\Exam 02\Exam02\obj\Debug\net6.0\Exam02.AssemblyInfoInputs.cache
+F:\ROUTE\Exam 02\Exam02\obj\Debug\net6.0\Exam02.AssemblyInfo.cs
+F:\ROUTE\Exam 02\Exam02\obj\Debug\net6.0\Exam02.csproj.CoreCompileInputs.cache
+F:\ROUTE\Exam 02\Exam02\obj\Debug\net6.0\Exam02.dll
+F:\ROUTE\Exam 02\Exam02\obj\Debug\net6.0\refint\Exam02.dll
+F:\ROUTE\Exam 02\Exam02\obj\Debug\net6.0\Exam02.pdb
+F:\ROUTE\Exam 02\Exam02\obj\Debug\net6.0\Exam02.genruntimeconfig.cache
+F:\ROUTE\Exam 02\Exam02\obj\Debug\net6.0\ref\Exam02.dll
